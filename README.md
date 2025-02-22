@@ -94,10 +94,20 @@ ln -s "$(pwd)/translate-subs" ~/bin/translate-subs
 
 2. **Global Installation**:
 ```bash
-# Copy to binaries directory
+# Create installation directories
+sudo mkdir -p /usr/local/lib/subtitle-translator
+sudo mkdir -p /usr/local/bin
+
+# Copy project files
+sudo cp -r src/translator.py src/languages.py requirements.txt /usr/local/lib/subtitle-translator/
 sudo cp translate-subs /usr/local/bin/
 sudo chmod +x /usr/local/bin/translate-subs
 ```
+
+The script will automatically create and manage:
+- Virtual environment in `~/.local/share/subtitle-translator/venv`
+- Configuration in `~/.config/subtitle-translator`
+- Log files in `~/.config/subtitle-translator`
 
 ### Usage
 

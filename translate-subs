@@ -2,10 +2,25 @@
 
 # Configuration
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-PYTHON_SCRIPT="$SCRIPT_DIR/src/translator.py"
-VENV_DIR="$SCRIPT_DIR/.venv"
-REQUIREMENTS="$SCRIPT_DIR/requirements.txt"
-LOG_FILE="$SCRIPT_DIR/translation.log"
+INSTALL_DIR="$HOME/.local/share/subtitle-translator"
+CONFIG_DIR="$HOME/.config/subtitle-translator"
+VENV_DIR="$INSTALL_DIR/venv"
+LOG_FILE="$CONFIG_DIR/translation.log"
+
+# Ensure directories exist
+mkdir -p "$INSTALL_DIR"
+mkdir -p "$CONFIG_DIR"
+
+# Determine script locations
+if [ -f "$SCRIPT_DIR/src/translator.py" ]; then
+    # Running from project directory
+    PYTHON_SCRIPT="$SCRIPT_DIR/src/translator.py"
+    REQUIREMENTS="$SCRIPT_DIR/requirements.txt"
+else
+    # Running from installed location
+    PYTHON_SCRIPT="/usr/local/lib/subtitle-translator/translator.py"
+    REQUIREMENTS="/usr/local/lib/subtitle-translator/requirements.txt"
+fi
 
 # Colors for output
 RED='\033[0;31m'
@@ -44,6 +59,7 @@ check_dependencies() {
 setup_venv() {
     if [ ! -d "$VENV_DIR" ]; then
         echo "📦 Creating virtual environment..."
+        mkdir -p "$INSTALL_DIR" || error "Could not create installation directory"
         python3 -m venv "$VENV_DIR" || error "Could not create virtual environment"
         source "$VENV_DIR/bin/activate"
         echo "📥 Installing dependencies..."
@@ -92,7 +108,7 @@ EOF
 
 # Clean temporary files
 clean_files() {
-    rm -f "$SCRIPT_DIR/translation_checkpoint.json"
+    rm -f "$CONFIG_DIR/translation_checkpoint.json"
     rm -f "$LOG_FILE"
     success "✅ Temporary files cleaned"
 }
