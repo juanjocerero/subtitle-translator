@@ -1,0 +1,6 @@
+torch>=2.0.0
+transformers>=4.30.0
+pysrt>=1.1.2
+tqdm>=4.65.0
+chardet>=5.1.0
+langdetect>=1.0.9

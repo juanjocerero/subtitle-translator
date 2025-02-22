@@ -1,0 +1,344 @@
+1
+00:00:01,000 --> 00:00:04,000
+"Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y "Y" y " y "Y" y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " y " " y " y " " " y " y " " y " " y " y " " " y " y " " y " " " y " " " y " " " y " " " " " y " " " " " " " y " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " "
+
+2
+00:00:04,500 --> 00:00:07,500
+Bienvenido a esta presentación completa sobre inteligencia artificial y aprendizaje automático. Mi nombre es la doctora Sarah Johnson, y voy a ser su guía a través de este fascinante tema.
+
+3
+00:00:08,000 --> 00:00:11,000
+Mi nombre es la doctora Sarah Johnson, y voy a ser su guía a través de este fascinante tema. Hoy, exploraremos los fundamentos de la IA, sus aplicaciones y sus implicaciones futuras.
+
+4
+00:00:11,500 --> 00:00:14,500
+Hoy vamos a explorar los fundamentos de la IA, sus aplicaciones y sus implicaciones futuras. Empecemos con una breve descripción de lo que cubriremos hoy.
+
+5
+00:00:15,000 --> 00:00:18,000
+Comencemos con una breve descripción de lo que vamos a tratar hoy. Primero, discutiremos los conceptos básicos de la inteligencia artificial.
+
+6
+00:00:18,500 --> 00:00:21,500
+Pero primero, vamos a discutir los conceptos básicos de la inteligencia artificial, luego, exploraremos diferentes tipos de algoritmos de aprendizaje automático.
+
+7
+00:00:22,000 --> 00:00:25,000
+Después, vamos a explorar diferentes tipos de algoritmos de aprendizaje automático, y finalmente, vamos a ver aplicaciones del mundo real y desarrollos futuros.
+
+8
+00:00:25,500 --> 00:00:28,500
+Finalmente, vamos a ver las aplicaciones del mundo real y los desarrollos futuros. Pero antes de sumergirnos, vamos a definir lo que es la IA en realidad.
+
+9
+00:00:29,000 --> 00:00:32,000
+Pero antes de entrar en esto, vamos a definir lo que es la IA en realidad. La inteligencia artificial es la simulación de la inteligencia humana por máquinas.
+
+10
+00:00:32,500 --> 00:00:35,500
+La Inteligencia Artificial es la simulación de la inteligencia humana por máquinas.
+
+11
+00:00:36,000 --> 00:00:39,000
+Abarca una amplia gama de capacidades, desde sistemas simples basados en reglas... ...a complejas redes neuronales que pueden aprender y adaptarse a partir de la experiencia.
+
+12
+00:00:39,500 --> 00:00:42,500
+El campo de la IA ha evolucionado significativamente en las últimas décadas.
+
+13
+00:00:43,000 --> 00:00:46,000
+El campo de la IA ha evolucionado significativamente en las últimas décadas. Lo que comenzó como una combinación de patrones simple se ha convertido en sistemas sofisticados...
+
+14
+00:00:46,500 --> 00:00:49,500
+Lo que comenzó como una simple combinación de patrones se ha convertido en sistemas sofisticados capaces de entender el lenguaje natural, reconocer imágenes e incluso conducir autos.
+
+15
+00:00:50,000 --> 00:00:53,000
+...capaz de entender el lenguaje natural, reconocer imágenes e incluso conducir autos.
+
+16
+00:00:53,500 --> 00:00:56,500
+Vamos a ver los componentes principales de la inteligencia artificial. Primero, tenemos el aprendizaje automático, que es un subconjunto de la IA.
+
+17
+00:00:57,000 --> 00:01:00,000
+Primero, tenemos el aprendizaje automático, que es un subconjunto de la IA.
+
+18
+00:01:00,500 --> 00:01:03,500
+El aprendizaje automático permite a los sistemas aprender de datos sin programación explícita. Luego tenemos el aprendizaje profundo, un subconjunto del aprendizaje automático.
+
+19
+00:01:04,000 --> 00:01:07,000
+Luego tenemos el aprendizaje profundo, un subconjunto del aprendizaje automático. El aprendizaje profundo utiliza redes neuronales con múltiples capas para procesar datos.
+
+20
+00:01:07,500 --> 00:01:10,500
+El aprendizaje profundo utiliza redes neuronales con múltiples capas para procesar datos. El procesamiento del lenguaje natural, o PNL, es otro componente crucial.
+
+21
+00:01:11,000 --> 00:01:14,000
+El procesamiento del lenguaje natural, o PNL, es otro componente crucial. La PNL permite a las máquinas entender, interpretar y generar el lenguaje humano.
+
+22
+00:01:14,500 --> 00:01:17,500
+La visión por ordenador es también un área clave, que permite a las máquinas entender la entrada visual.
+
+23
+00:01:18,000 --> 00:01:21,000
+La visión de computadora es también un área clave, permitiendo a las máquinas entender la entrada visual. Ahora, profundicemos en los algoritmos de aprendizaje automático.
+
+24
+00:01:21,500 --> 00:01:24,500
+Ahora, vamos a profundizar en los algoritmos de aprendizaje automático.
+
+25
+00:01:25,000 --> 00:01:28,000
+Hay tres tipos principales de enfoques de aprendizaje automático. Primero, tenemos el aprendizaje supervisado, donde el modelo aprende de los datos etiquetados.
+
+26
+00:01:28,500 --> 00:01:31,500
+[PREV]En primer lugar, tenemos el aprendizaje supervisado, donde el modelo aprende de los datos etiquetados. En el aprendizaje supervisado, el algoritmo se entrena en pares de entrada y salida.
+
+27
+00:01:32,000 --> 00:01:35,000
+En el aprendizaje supervisado, el algoritmo se entrena en pares de entrada y salida. por ejemplo, clasificar los correos electrónicos como spam o no spam en base a ejemplos.
+
+28
+00:01:35,500 --> 00:01:38,500
+Por ejemplo, la clasificación de los correos electrónicos como spam o no spam en base a ejemplos.
+
+29
+00:01:39,000 --> 00:01:42,000
+El segundo tipo de la tecnología es el aprendizaje no supervisado, donde los datos no están etiquetados.
+
+30
+00:01:42,500 --> 00:01:45,500
+Los algoritmos de aprendizaje no supervisado encuentran patrones y estructuras en los datos.
+
+31
+00:01:46,000 --> 00:01:49,000
+Los algoritmos de agrupamiento de la información son un buen ejemplo de aprendizaje sin supervisión. El tercer tipo es el aprendizaje de refuerzo, donde los agentes aprenden a través de la interacción.
+
+32
+00:01:49,500 --> 00:01:52,500
+El tercer tipo es el aprendizaje de refuerzo, donde los agentes aprenden a través de la interacción.
+
+33
+00:01:53,000 --> 00:01:56,000
+El aprendizaje de refuerzo es similar a cómo los humanos aprenden de la experiencia.
+
+34
+00:01:56,500 --> 00:01:59,500
+El agente recibe recompensas o sanciones basadas en sus acciones. Ahora, veamos algunas aplicaciones prácticas de estas tecnologías.
+
+35
+00:02:00,000 --> 00:02:03,000
+Ahora, veamos algunas aplicaciones prácticas de estas tecnologías. Una aplicación importante es en la atención médica y el diagnóstico médico.
+
+36
+00:02:03,500 --> 00:02:06,500
+Una aplicación importante es en la atención médica y el diagnóstico médico. Los sistemas de IA pueden analizar imágenes médicas para detectar enfermedades temprano.
+
+37
+00:02:07,000 --> 00:02:10,000
+Los sistemas de inteligencia artificial pueden analizar imágenes médicas para detectar enfermedades temprano. También pueden predecir los resultados de los pacientes basados en datos históricos.
+
+38
+00:02:10,500 --> 00:02:13,500
+También pueden predecir los resultados de los pacientes basándose en datos históricos.
+
+39
+00:02:14,000 --> 00:02:17,000
+La IA ayuda a detectar transacciones fraudulentas y a evaluar el riesgo de crédito.
+
+40
+00:02:17,500 --> 00:02:20,500
+[PREV]AI ayuda a detectar transacciones fraudulentas y a evaluar el riesgo de crédito.
+
+41
+00:02:21,000 --> 00:02:24,000
+También puede optimizar las carteras de inversión y predecir las tendencias del mercado.
+
+42
+00:02:24,500 --> 00:02:27,500
+En la industria automotriz, la IA impulsa los autos autónomos que utilizan múltiples sistemas de IA trabajando juntos.
+
+43
+00:02:28,000 --> 00:02:31,000
+Estos vehículos utilizan múltiples sistemas de IA trabajando juntos.
+
+44
+00:02:31,500 --> 00:02:34,500
+La visión por ordenador para la detección de objetos, algoritmos de planificación de trayectoria y sistemas de toma de decisiones para la navegación y la seguridad.
+
+45
+00:02:35,000 --> 00:02:38,000
+El sector minorista también se beneficia mucho de las aplicaciones de IA.
+
+46
+00:02:38,500 --> 00:02:41,500
+El sector del comercio minorista también se beneficia mucho de las aplicaciones de IA.
+
+47
+00:02:42,000 --> 00:02:45,000
+Los sistemas de recomendación ayudan a los clientes a encontrar productos que les puedan gustar.
+
+48
+00:02:45,500 --> 00:02:48,500
+Los sistemas de gestión de inventarios predicen la demanda y optimizan los niveles de existencias. Veamos algunos ejemplos específicos de implementación de la
+
+49
+00:02:49,000 --> 00:02:52,000
+Veamos algunos ejemplos específicos de implementación. Veamos el sistema de recomendaciones de Netflix, por ejemplo.
+
+50
+00:02:52,500 --> 00:02:55,500
+[PREV]Pensemos en el sistema de recomendaciones de Netflix, por ejemplo, que utiliza filtros colaborativos y algoritmos de aprendizaje profundo.
+
+51
+00:02:56,000 --> 00:02:59,000
+Utiliza algoritmos de filtración colaborativa y aprendizaje profundo, que analizan patrones de visualización y preferencias de los usuarios.
+
+52
+00:02:59,500 --> 00:03:02,500
+[PREV]Estos algoritmos de la tecnología para analizar patrones de visualización y preferencias de los usuarios. Otro ejemplo es el modelo de lenguaje de Google, BERT.
+
+53
+00:03:03,000 --> 00:03:06,000
+Otro ejemplo es el modelo de lenguaje de Google, el BERT, que revolucionó las tareas de procesamiento de lenguaje natural.
+
+54
+00:03:06,500 --> 00:03:09,500
+BERT E. E. Lee revolucionó las tareas de procesamiento del lenguaje natural.
+
+55
+00:03:10,000 --> 00:03:13,000
+En el campo de la visión por ordenador, tenemos el sistema de piloto automático de Tesla.
+
+56
+00:03:13,500 --> 00:03:16,500
+En el campo de la visión por ordenador, tenemos el sistema de piloto automático de Tesla que utiliza redes neuronales para procesar información visual en tiempo real.
+
+57
+00:03:17,000 --> 00:03:20,000
+[PREV]Utiliza redes neuronales para procesar información visual en tiempo real. El sistema puede identificar objetos, leer señales de tráfico y detectar marcas de carriles.
+
+58
+00:03:20,500 --> 00:03:23,500
+El sistema puede identificar objetos, leer señales de tráfico y detectar marcas de carriles. Ahora, hablemos de algunos desafíos y limitaciones de la IA.
+
+59
+00:03:24,000 --> 00:03:27,000
+Ahora, vamos a discutir algunos desafíos y limitaciones de la IA. Uno de los principales desafíos es la necesidad de grandes cantidades de datos.
+
+60
+00:03:27,500 --> 00:03:30,500
+Un desafío importante es la necesidad de grandes cantidades de datos.
+
+61
+00:03:31,000 --> 00:03:34,000
+Los sistemas de inteligencia artificial necesitan una amplia gama de datos de formación para tener un buen rendimiento.
+
+62
+00:03:34,500 --> 00:03:37,500
+Otro reto para los "s" es el problema de la "caja negra". Muchos sistemas de IA no pueden explicar cómo llegan a sus decisiones.
+
+63
+00:03:38,000 --> 00:03:41,000
+Muchos sistemas de IA no pueden explicar cómo llegan a sus decisiones. Esta falta de transparencia puede ser problemática en aplicaciones críticas.
+
+64
+00:03:41,500 --> 00:03:44,500
+La falta de transparencia puede ser problemática en aplicaciones críticas.
+
+65
+00:03:45,000 --> 00:03:48,000
+Los prejuicios en los sistemas de IA también son una preocupación significativa. Si los datos de entrenamiento son sesgados, la IA aprenderá estos prejuicios.
+
+66
+00:03:48,500 --> 00:03:51,500
+Si los datos de entrenamiento son sesgados, la IA aprenderá estos sesgos. ¿Qué podemos esperar en el futuro?
+
+67
+00:03:52,000 --> 00:03:55,000
+[PREV] Mirando hacia el futuro, ¿qué podemos esperar? La IA seguirá siendo más sofisticada y capaz.
+
+68
+00:03:55,500 --> 00:03:58,500
+La IA seguirá siendo más sofisticada y capaz. Veremos sistemas de procesamiento de lenguaje natural más avanzados.
+
+69
+00:03:59,000 --> 00:04:02,000
+Veremos sistemas de procesamiento de lenguaje natural más avanzados. La IA será mejor en la comprensión del contexto y los matices.
+
+70
+00:04:02,500 --> 00:04:05,500
+La IA mejorará la comprensión del contexto y los matices de la información.
+
+71
+00:04:06,000 --> 00:04:09,000
+Los sistemas de visión por ordenador seguirán mejorando en precisión. Veremos más aplicaciones en robótica y automatización.
+
+72
+00:04:09,500 --> 00:04:12,500
+Veremos más aplicaciones en robótica y automatización. La IA jugará un papel más importante en la investigación científica.
+
+73
+00:04:13,000 --> 00:04:16,000
+La IA desempeñará un papel más importante en la investigación científica, ayudará a descubrir nuevos medicamentos y comprender sistemas complejos.
+
+74
+00:04:16,500 --> 00:04:19,500
+[PREV]Ajudará a descubrir nuevos medicamentos y comprender sistemas complejos. El campo de la ética de la IA también se volverá cada vez más importante.
+
+75
+00:04:20,000 --> 00:04:23,000
+El campo de la ética de la IA también se volverá cada vez más importante. Necesitaremos abordar las preguntas sobre la seguridad y la responsabilidad de la IA.
+
+76
+00:04:23,500 --> 00:04:26,500
+Necesitaremos abordar las cuestiones sobre seguridad y responsabilidad de la IA.
+
+77
+00:04:27,000 --> 00:04:30,000
+Las reglas y directrices tendrán que evolucionar con la tecnología. Ahora, resumamos lo que hemos cubierto hoy.
+
+78
+00:04:30,500 --> 00:04:33,500
+Vamos a resumir lo que hemos cubierto hoy, hemos explorado los fundamentos de la inteligencia artificial.
+
+79
+00:04:34,000 --> 00:04:37,000
+Hemos explorado los fundamentos de la inteligencia artificial y hemos discutido diferentes tipos de enfoques de aprendizaje automático.
+
+80
+00:04:37,500 --> 00:04:40,500
+Hemos discutido diferentes tipos de enfoques de aprendizaje automático. Hemos visto aplicaciones del mundo real y ejemplos de implementación.
+
+81
+00:04:41,000 --> 00:04:44,000
+Hemos visto aplicaciones y ejemplos de implementación en el mundo real y hemos analizado las tendencias y desafíos futuros.
+
+82
+00:04:44,500 --> 00:04:47,500
+Hemos analizado tendencias y desafíos futuros. Gracias por su atención durante esta presentación.
+
+83
+00:04:48,000 --> 00:04:51,000
+Gracias por su atención durante esta presentación. ¿Hay alguna pregunta sobre lo que hemos cubierto hoy?
+
+84
+00:04:51,500 --> 00:04:54,500
+¿Hay alguna pregunta sobre lo que hemos cubierto hoy?
+
+85
+00:04:55,000 --> 00:04:58,000
+Si necesitas alguna aclaración, puedes contactarme.
+
+86
+00:04:58,500 --> 00:05:01,500
+Gracias por participar en esta sesión.
+
